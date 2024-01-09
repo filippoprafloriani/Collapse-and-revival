@@ -1,3 +1,3 @@
 Assignments to do. Check the number 4.
 
-Jupyter notebook with the code.
+Jupyter notebook in Python with the code.
